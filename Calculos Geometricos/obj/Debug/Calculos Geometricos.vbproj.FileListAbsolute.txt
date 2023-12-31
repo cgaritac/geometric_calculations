@@ -1,0 +1,32 @@
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\bin\Debug\Calculos Geometricos.exe.config
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\bin\Debug\Calculos Geometricos.exe
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\bin\Debug\Calculos Geometricos.pdb
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\bin\Debug\Calculos Geometricos.xml
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos Geometricos.vbprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmAreaOctagono.resources
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmAreaParalelogramo.resources
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmAreaTrapecio.resources
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmMDICalculos.resources
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos_Geometricos.Resources.resources
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos Geometricos.vbproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos Geometricos.vbproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos Geometricos.exe
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos Geometricos.xml
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos Geometricos.pdb
+C:\Users\Toshiba\Desktop\Calculos Geometricos\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmPiramide.resources
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\bin\Debug\Calculos Geometricos.exe.config
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\bin\Debug\Calculos Geometricos.exe
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\bin\Debug\Calculos Geometricos.pdb
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\bin\Debug\Calculos Geometricos.xml
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos Geometricos.vbproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmAreaOctagono.resources
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmAreaParalelogramo.resources
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmPiramide.resources
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmAreaTrapecio.resources
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos_Geometricos.FrmMDICalculos.resources
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos_Geometricos.Resources.resources
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos Geometricos.vbproj.GenerateResource.cache
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos Geometricos.vbproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos Geometricos.exe
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos Geometricos.xml
+C:\Users\cgari\OneDrive\Proyectos\geometric_calculations\Calculos Geometricos\obj\Debug\Calculos Geometricos.pdb
